@@ -4,7 +4,7 @@ import { FaFilter, FaSort } from 'react-icons/fa';
 
 const reviews = [
     {
-        img: "public/man.png",
+        img: "man.png",
         name: "Wei Jie",
         location: "Singapore, Little India",
         date: "29/11/2023",
@@ -12,7 +12,7 @@ const reviews = [
         content: "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout."
     },
     {
-        img: "public/man.png",
+        img: "man.png",
         name: "Mei Ling",
         location: "Singapore, Orchard Boulevard",
         date: "05/05/2023",
@@ -20,7 +20,7 @@ const reviews = [
         content: "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout."
     },
     {
-        img: "public/man.png",
+        img: "man.png",
         name: "Wei Jie",
         location: "Singapore, Little India",
         date: "29/11/2023",
@@ -28,7 +28,7 @@ const reviews = [
         content: "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout."
     },
     {
-        img: "public/man.png",
+        img: "man.png",
         name: "Wei Jie",
         location: "Singapore, Little India",
         date: "29/11/2023",
@@ -36,7 +36,7 @@ const reviews = [
         content: "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout."
     },
     {
-        img: "public/man.png",
+        img: "man.png",
         name: "Wei Jie",
         location: "Singapore, Little India",
         date: "29/11/2023",
@@ -44,7 +44,7 @@ const reviews = [
         content: "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout."
     },
     {
-        img: "public/man.png",
+        img: "man.png",
         name: "Wei Jie",
         location: "Singapore, Little India",
         date: "29/11/2023",
@@ -52,7 +52,7 @@ const reviews = [
         content: "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout."
     },
     {
-        img: "public/man.png",
+        img: "man.png",
         name: "Wei Jie",
         location: "Singapore, Little India",
         date: "29/11/2023",
@@ -60,7 +60,7 @@ const reviews = [
         content: "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout."
     },
     {
-        img: "public/man.png",
+        img: "man.png",
         name: "Wei Jie",
         location: "Singapore, Little India",
         date: "29/11/2023",
@@ -68,7 +68,7 @@ const reviews = [
         content: "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout."
     },
     {
-        img: "public/man.png",
+        img: "man.png",
         name: "Wei Jie",
         location: "Singapore, Little India",
         date: "29/11/2023",
